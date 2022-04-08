@@ -1,6 +1,7 @@
+http://example.com/2022/04/08/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0Travis%E7%9A%84%E5%B0%8F%E6%9C%A8%E5%B1%8B%EF%BC%81/
 http://example.com/about/index.html
 http://example.com/categories/index.html
 http://example.com/resources/index.html
 http://example.com/tags/index.html
-http://example.com/2022/04/08/hello-world/
 http://example.com/
+http://example.com/tags/%E9%97%B2%E8%81%8A/
