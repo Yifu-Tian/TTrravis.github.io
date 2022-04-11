@@ -8,7 +8,7 @@
       <link href="/2022/04/11/formula-test/"/>
       <url>/2022/04/11/formula-test/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script type="math/tex; mode=display">i\hbar\frac{\partial}{\partial t}\psi=-\frac{\hbar^2}{2m}\nabla^2\psi+V\psi</script><p>行间公式$O(f(n))=log_2^{n}$测试</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>行间公式$O(f(n))=log_2^{n}$测试</p>]]></content>
       
       
       <categories>
