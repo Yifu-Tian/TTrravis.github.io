@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>CSC第二次作业反思</title>
+      <link href="/2022/04/19/CSC%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%8D%E6%80%9D/"/>
+      <url>/2022/04/19/CSC%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%8D%E6%80%9D/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="今天可算是把计算机第二次大作业给整完了！"><a href="#今天可算是把计算机第二次大作业给整完了！" class="headerlink" title="今天可算是把计算机第二次大作业给整完了！"></a>今天可算是把计算机第二次大作业给整完了！</h2><p>经过了四天的艰苦卓绝的、自强不息的奋斗，计算机flipping color可以说是告一段落了。<br>在这里分享一点个人心得：<br>1.画布的位置、方块的尺寸一定要事先设置好（至少我的方法是这样）<br>2.颜色可以不局限于简单的红黄蓝绿，试试其他颜色代码吧！<br>3.最精髓的应该是利用递归算法找相邻且颜色相同的色块了吧<br>4.回想起来这几天真的好肝，睡觉很容易醒T_T<br>5.也可以适当写一些标语<br>6.想贴出源代码，但考虑到ddl还没到（滑稽）就不发了~<br>接下来要把精力投入到物理了~</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Computer Science </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Assignments </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>LeetCode刷题2022/4/14</title>
       <link href="/2022/04/14/LeetCode%E5%88%B7%E9%A2%982022-4-14/"/>
       <url>/2022/04/14/LeetCode%E5%88%B7%E9%A2%982022-4-14/</url>
