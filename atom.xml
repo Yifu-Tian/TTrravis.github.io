@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-04-19T10:27:12.699Z</updated>
+  <updated>2022-04-19T10:40:44.570Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2022.4.19小记</title>
+    <link href="http://example.com/2022/04/19/2022-4-19%E5%B0%8F%E8%AE%B0/"/>
+    <id>http://example.com/2022/04/19/2022-4-19%E5%B0%8F%E8%AE%B0/</id>
+    <published>2022-04-19T10:30:06.000Z</published>
+    <updated>2022-04-19T10:40:44.570Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="最近在搞的一些事情"><a href="#最近在搞的一些事情" class="headerlink" title="最近在搞的一些事情"></a>最近在搞的一些事情</h2><p><em>射雕英雄传看到三百面左右了，不过得看快点了，5月6号ddl（瑟瑟发抖）</em>物理作业明天ddl，还要花点时间在物理上<br><em>天晴了把被子拿出去晒一下</em>入手了一个机械键盘，声音好听得雅痞/在图书馆里用估计得被人打<br><em>口腔溃疡了，烦内~</em>明天开始起床刷leetcode题！加油兄弟们！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="闲聊" scheme="http://example.com/tags/%E9%97%B2%E8%81%8A/"/>
+    
+  </entry>
   
   <entry>
     <title>CSC第二次作业反思</title>
