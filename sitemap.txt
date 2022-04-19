@@ -19,6 +19,6 @@ http://example.com/tags/Leetcode/
 http://example.com/tags/%E6%95%B0%E5%AD%A6/
 http://example.com/tags/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/
 http://example.com/categories/Computer-Science/
-http://example.com/categories/%E6%B5%8B%E8%AF%95/
 http://example.com/categories/%E6%9C%A8%E5%B1%8B%E6%9D%82%E8%B0%88/
+http://example.com/categories/%E6%B5%8B%E8%AF%95/
 http://example.com/categories/Linear-Algebra/
